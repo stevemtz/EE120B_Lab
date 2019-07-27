@@ -1,7 +1,7 @@
 
 /*	Author: smart051
  *  Partner(s) Name: 
- *	Lab Section:/Users/stevemartinez/Downloads/smart051_lab11_part2.c
+ *	Lab Section: 21?
  *	Assignment: Final Project
  *	Exercise Description: [optional - include for your own benefit]
  *
